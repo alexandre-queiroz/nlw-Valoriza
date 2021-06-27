@@ -1,5 +1,7 @@
 # NLW-Valoriza
 
+# API feita em TypeScript, Node.js, SQLite3, usando migrations, ORM e com yarn
+
 ## Regras
 
 - Cadastro de usuário
